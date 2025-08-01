@@ -16,28 +16,3 @@ SecureJournalApp is a privacy-focused journaling application designed to keep yo
    ```bash
    git clone https://github.com/saifuzzama/securejournalapp.git
    cd securejournalapp
-
-   
-Usage
-Register a new account or log in with your credentials.
-Create new journal entries using the editor.
-Use the search and filter options to browse your notes.
-Export or back up your data from the settings menu.
-Technologies Used
-Frontend: React, JavaScript/TypeScript
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT, bcrypt
-Encryption: crypto libraries
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
-
-Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit your changes.
-Push to the branch.
-Open a pull request.
-
-
-Contact
-For questions or support, please open an issue or contact saifuzzama.
